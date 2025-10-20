@@ -1,9 +1,53 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.7">
   <diagram name="Страница — 1" id="VYhgEZ7QR8uWhmJlei5r">
-    <mxGraphModel>
+    <mxGraphModel dx="1373" dy="760" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FSooZeLvO8aQwx96Dk7q-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;startArrow=oval;startFill=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="FSooZeLvO8aQwx96Dk7q-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="362" y="192" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSooZeLvO8aQwx96Dk7q-5" value="Номер_судна&#xa;Номер_рейса" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=41;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="518" y="172" width="160" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="FSooZeLvO8aQwx96Dk7q-6" value="Дата_погрузки" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="FSooZeLvO8aQwx96Dk7q-5">
+          <mxGeometry y="41" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FSooZeLvO8aQwx96Dk7q-7" value="Порт_погрузки" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="FSooZeLvO8aQwx96Dk7q-5">
+          <mxGeometry y="71" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FSooZeLvO8aQwx96Dk7q-8" value="Дата_прибытия" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="FSooZeLvO8aQwx96Dk7q-5">
+          <mxGeometry y="101" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FSooZeLvO8aQwx96Dk7q-13" value="Порт_прибытия" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="FSooZeLvO8aQwx96Dk7q-5">
+          <mxGeometry y="131" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FSooZeLvO8aQwx96Dk7q-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="144" width="160" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="FSooZeLvO8aQwx96Dk7q-1" value="Номер_судна" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="FSooZeLvO8aQwx96Dk7q-11">
+          <mxGeometry y="36" width="160" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="FSooZeLvO8aQwx96Dk7q-2" value="Наиминование" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="FSooZeLvO8aQwx96Dk7q-1">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FSooZeLvO8aQwx96Dk7q-3" value="ФИО_капитана" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="FSooZeLvO8aQwx96Dk7q-1">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FSooZeLvO8aQwx96Dk7q-4" value="Вид_судна" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="FSooZeLvO8aQwx96Dk7q-1">
+          <mxGeometry y="86" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FSooZeLvO8aQwx96Dk7q-10" value="Грузоподъемность" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="FSooZeLvO8aQwx96Dk7q-1">
+          <mxGeometry y="116" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FSooZeLvO8aQwx96Dk7q-9" value="Судно" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="FSooZeLvO8aQwx96Dk7q-11">
+          <mxGeometry x="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FSooZeLvO8aQwx96Dk7q-12" value="Рейс" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="568" y="142" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
