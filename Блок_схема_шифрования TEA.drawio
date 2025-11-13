@@ -74,10 +74,10 @@
           <mxGeometry x="219" y="440" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ETDDeVUrkRjecWoMpNIe-15" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;arcSize=6;" vertex="1" parent="ETDDeVUrkRjecWoMpNIe-18">
-          <mxGeometry width="390" height="60" as="geometry" />
+          <mxGeometry x="80" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ETDDeVUrkRjecWoMpNIe-17" value="Text" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="ETDDeVUrkRjecWoMpNIe-18">
-          <mxGeometry x="97.5" y="15" width="195" height="30" as="geometry" />
+        <mxCell id="ETDDeVUrkRjecWoMpNIe-17" value="Делим на два 32 битных блока v0 b v1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="ETDDeVUrkRjecWoMpNIe-18">
+          <mxGeometry x="78.75" y="5" width="232.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
