@@ -22,14 +22,29 @@
         <mxCell id="EoDof1cuFiKfTlQCXh_Z-6" value="Нач." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="EoDof1cuFiKfTlQCXh_Z-4">
           <mxGeometry x="14" y="10" width="44.333333333333336" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EoDof1cuFiKfTlQCXh_Z-9" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="275" y="100" width="240" height="60" as="geometry" />
+        <mxCell id="EoDof1cuFiKfTlQCXh_Z-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EoDof1cuFiKfTlQCXh_Z-9" target="EoDof1cuFiKfTlQCXh_Z-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EoDof1cuFiKfTlQCXh_Z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EoDof1cuFiKfTlQCXh_Z-5" target="EoDof1cuFiKfTlQCXh_Z-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EoDof1cuFiKfTlQCXh_Z-12" value="Получение ключа" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="115" width="130" height="30" as="geometry" />
+        <mxCell id="EoDof1cuFiKfTlQCXh_Z-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="275" y="100" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EoDof1cuFiKfTlQCXh_Z-9" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="EoDof1cuFiKfTlQCXh_Z-15">
+          <mxGeometry width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EoDof1cuFiKfTlQCXh_Z-12" value="Получение ключа" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="EoDof1cuFiKfTlQCXh_Z-15">
+          <mxGeometry x="55" y="15" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EoDof1cuFiKfTlQCXh_Z-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="335" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EoDof1cuFiKfTlQCXh_Z-13" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="EoDof1cuFiKfTlQCXh_Z-17">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EoDof1cuFiKfTlQCXh_Z-16" value="Инициализация ключа (key)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="EoDof1cuFiKfTlQCXh_Z-17">
+          <mxGeometry x="30" y="15" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
