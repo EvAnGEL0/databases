@@ -82,8 +82,17 @@
         <mxCell id="EoDof1cuFiKfTlQCXh_Z-30" value="Инициализация пустой строки (HData)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="EoDof1cuFiKfTlQCXh_Z-31">
           <mxGeometry x="29.25" y="15" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EoDof1cuFiKfTlQCXh_Z-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" vertex="1" parent="1">
-          <mxGeometry x="306.25" y="555" width="177.5" height="60" as="geometry" />
+        <mxCell id="EoDof1cuFiKfTlQCXh_Z-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="303.25" y="550" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EoDof1cuFiKfTlQCXh_Z-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" vertex="1" parent="EoDof1cuFiKfTlQCXh_Z-34">
+          <mxGeometry width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EoDof1cuFiKfTlQCXh_Z-33" value="i=0; i&amp;lt;DataMax; i++" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="EoDof1cuFiKfTlQCXh_Z-34">
+          <mxGeometry x="30" y="15" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EoDof1cuFiKfTlQCXh_Z-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EoDof1cuFiKfTlQCXh_Z-28" target="EoDof1cuFiKfTlQCXh_Z-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
