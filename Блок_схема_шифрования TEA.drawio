@@ -100,8 +100,11 @@
         <mxCell id="_fax7aCQO8PJxcvLkYtm-11" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="284" y="670" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_fax7aCQO8PJxcvLkYtm-13" value="Text" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="384" y="685" width="60" height="30" as="geometry" />
+        <mxCell id="_fax7aCQO8PJxcvLkYtm-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_fax7aCQO8PJxcvLkYtm-13" target="_fax7aCQO8PJxcvLkYtm-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_fax7aCQO8PJxcvLkYtm-13" value="v0 += ((v1 &amp;lt;&amp;lt; 4) + key[0]) ^ (v1 + sum) ^ ((v1 &amp;gt;&amp;gt; 5) + key[1])" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="284" y="685" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_fax7aCQO8PJxcvLkYtm-14" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="294" y="570" width="240" height="40" as="geometry" />
@@ -120,6 +123,24 @@
         </mxCell>
         <mxCell id="_fax7aCQO8PJxcvLkYtm-10" value="32 - количество раундов&amp;nbsp;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="_fax7aCQO8PJxcvLkYtm-15">
           <mxGeometry x="40" y="27.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_fax7aCQO8PJxcvLkYtm-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="314" y="750" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_fax7aCQO8PJxcvLkYtm-16" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="_fax7aCQO8PJxcvLkYtm-19">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_fax7aCQO8PJxcvLkYtm-18" value="&amp;nbsp;sum +=&amp;nbsp;&amp;nbsp;0x9E3779B9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="_fax7aCQO8PJxcvLkYtm-19">
+          <mxGeometry x="34.31372549019608" y="7.5" width="131.37254901960785" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="_fax7aCQO8PJxcvLkYtm-20" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="800" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_fax7aCQO8PJxcvLkYtm-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_fax7aCQO8PJxcvLkYtm-16" target="_fax7aCQO8PJxcvLkYtm-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_fax7aCQO8PJxcvLkYtm-22" value="v1 += ((v0 &amp;lt;&amp;lt; 4) + key[2]) ^ (v0 + sum) ^ ((v0 &amp;gt;&amp;gt; 5) + key[3]);" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="815" width="370" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
