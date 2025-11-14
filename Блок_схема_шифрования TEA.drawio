@@ -100,6 +100,12 @@
         <mxCell id="_fax7aCQO8PJxcvLkYtm-8" value="r = 0; r &amp;lt; 32; r++" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="575" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_fax7aCQO8PJxcvLkYtm-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="540" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_fax7aCQO8PJxcvLkYtm-10" value="32 - количество раундов&amp;nbsp;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="567.5" width="90" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
