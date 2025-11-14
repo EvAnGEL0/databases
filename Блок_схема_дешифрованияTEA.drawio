@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.2">
   <diagram name="Страница-1" id="gdTU_XRi6O04wXkBlU26">
-    <mxGraphModel dx="1273" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="14" y="10" width="44.333333333333336" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Hvwr2rkAz8pj1dRMzzqS-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="374" y="530" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hvwr2rkAz8pj1dRMzzqS-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="Hvwr2rkAz8pj1dRMzzqS-4">
           <mxGeometry width="80" height="40" as="geometry" />
@@ -52,14 +52,38 @@
         <mxCell id="Hvwr2rkAz8pj1dRMzzqS-16" value="Да" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="488.75" y="170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hvwr2rkAz8pj1dRMzzqS-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Hvwr2rkAz8pj1dRMzzqS-11">
+        <mxCell id="Hvwr2rkAz8pj1dRMzzqS-18" value="Нет" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hvwr2rkAz8pj1dRMzzqS-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hvwr2rkAz8pj1dRMzzqS-11" target="Hvwr2rkAz8pj1dRMzzqS-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="190" as="sourcePoint" />
-            <mxPoint x="320" y="200" as="targetPoint" />
+            <mxPoint x="330" y="280" as="sourcePoint" />
+            <mxPoint x="210" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hvwr2rkAz8pj1dRMzzqS-18" value="Нет" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="281.25" y="170" width="60" height="30" as="geometry" />
+        <mxCell id="Hvwr2rkAz8pj1dRMzzqS-21" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hvwr2rkAz8pj1dRMzzqS-22" value="Некорректный размер данных" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="175" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hvwr2rkAz8pj1dRMzzqS-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.388;exitY=1.047;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hvwr2rkAz8pj1dRMzzqS-21" target="Hvwr2rkAz8pj1dRMzzqS-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="330" as="sourcePoint" />
+            <mxPoint x="370" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hvwr2rkAz8pj1dRMzzqS-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Hvwr2rkAz8pj1dRMzzqS-25" value="Data - текст, который нужно зашифровать" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hvwr2rkAz8pj1dRMzzqS-26" value="Key - 16-битный ключ" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="80" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
