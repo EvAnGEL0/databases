@@ -116,13 +116,13 @@
           <mxGeometry x="60" y="5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_fax7aCQO8PJxcvLkYtm-15" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="650" y="540" width="130" height="100" as="geometry" />
+          <mxGeometry x="540" y="540" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_fax7aCQO8PJxcvLkYtm-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="_fax7aCQO8PJxcvLkYtm-15" vertex="1">
-          <mxGeometry width="50" height="100" as="geometry" />
+          <mxGeometry x="-18" y="4" width="256" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_fax7aCQO8PJxcvLkYtm-10" value="32 - количество раундов&amp;nbsp;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="_fax7aCQO8PJxcvLkYtm-15" vertex="1">
-          <mxGeometry x="40" y="27.5" width="90" height="45" as="geometry" />
+          <mxGeometry x="104.99615384615385" y="23" width="166.15384615384613" height="45" as="geometry" />
         </mxCell>
         <mxCell id="_fax7aCQO8PJxcvLkYtm-19" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="320" y="750" width="200" height="30" as="geometry" />
@@ -146,10 +146,10 @@
           <mxGeometry y="15" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_fax7aCQO8PJxcvLkYtm-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="710" width="50" height="100" as="geometry" />
+          <mxGeometry x="520" y="733" width="240" height="65" as="geometry" />
         </mxCell>
         <mxCell id="_fax7aCQO8PJxcvLkYtm-25" value="0x9E3779B9 - константа" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="680" y="745" width="140" height="30" as="geometry" />
+          <mxGeometry x="645" y="748" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_fax7aCQO8PJxcvLkYtm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_fax7aCQO8PJxcvLkYtm-22" target="_fax7aCQO8PJxcvLkYtm-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
