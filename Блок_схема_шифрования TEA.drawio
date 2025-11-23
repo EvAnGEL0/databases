@@ -148,7 +148,7 @@
         <mxCell id="_fax7aCQO8PJxcvLkYtm-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="733" width="240" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="_fax7aCQO8PJxcvLkYtm-25" value="0x9E3779B9 - константа" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_fax7aCQO8PJxcvLkYtm-25" value="0x9E3779B9 - производная константа от золотого сечения" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="645" y="748" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_fax7aCQO8PJxcvLkYtm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_fax7aCQO8PJxcvLkYtm-22" target="_fax7aCQO8PJxcvLkYtm-6" edge="1">
