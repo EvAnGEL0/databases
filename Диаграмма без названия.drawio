@@ -22,8 +22,8 @@
         <mxCell id="YSF74yo-V3zidPwhUTfI-8" parent="YSF74yo-V3zidPwhUTfI-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Выбор вершин" vertex="1">
           <mxGeometry height="30" width="130" x="10" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="_xP5IN4nJAsyjdnd66vh-1" parent="YSF74yo-V3zidPwhUTfI-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Режимы выполнения" vertex="1">
-          <mxGeometry height="30" width="130" x="10" y="200" as="geometry" />
+        <mxCell id="_xP5IN4nJAsyjdnd66vh-1" parent="YSF74yo-V3zidPwhUTfI-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Панель управления алгоритмом" vertex="1">
+          <mxGeometry height="40" width="130" x="10" y="195" as="geometry" />
         </mxCell>
         <mxCell id="_xP5IN4nJAsyjdnd66vh-9" parent="YSF74yo-V3zidPwhUTfI-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Статистика и время работы алгоритма" vertex="1">
           <mxGeometry height="60" width="130" x="10" y="240" as="geometry" />
