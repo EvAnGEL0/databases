@@ -25,8 +25,8 @@
         <mxCell id="_xP5IN4nJAsyjdnd66vh-1" parent="YSF74yo-V3zidPwhUTfI-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Панель управления алгоритмом" vertex="1">
           <mxGeometry height="40" width="130" x="10" y="195" as="geometry" />
         </mxCell>
-        <mxCell id="_xP5IN4nJAsyjdnd66vh-9" parent="YSF74yo-V3zidPwhUTfI-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Статистика и время работы алгоритма" vertex="1">
-          <mxGeometry height="60" width="130" x="10" y="240" as="geometry" />
+        <mxCell id="_xP5IN4nJAsyjdnd66vh-9" parent="YSF74yo-V3zidPwhUTfI-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Панель статистики и результатов" vertex="1">
+          <mxGeometry height="40" width="130" x="10" y="260" as="geometry" />
         </mxCell>
         <mxCell id="YSF74yo-V3zidPwhUTfI-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.166;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
