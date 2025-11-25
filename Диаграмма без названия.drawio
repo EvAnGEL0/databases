@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
+  <diagram name="Страница-1" id="gaP_CDIf_6OKeNOTuPVM">
+    <mxGraphModel dx="1034" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YSF74yo-V3zidPwhUTfI-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="320" width="670" x="90" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YSF74yo-V3zidPwhUTfI-4" parent="YSF74yo-V3zidPwhUTfI-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Область визуализации модели сети" vertex="1">
+          <mxGeometry height="300" width="500" x="160" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YSF74yo-V3zidPwhUTfI-5" parent="YSF74yo-V3zidPwhUTfI-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Редактор сети" vertex="1">
+          <mxGeometry height="52" width="130" x="10" y="8" as="geometry" />
+        </mxCell>
+        <mxCell id="YSF74yo-V3zidPwhUTfI-6" parent="YSF74yo-V3zidPwhUTfI-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Управление таймингом" vertex="1">
+          <mxGeometry height="52" width="130" x="10" y="68" as="geometry" />
+        </mxCell>
+        <mxCell id="YSF74yo-V3zidPwhUTfI-7" parent="YSF74yo-V3zidPwhUTfI-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Выбор алгоритма" vertex="1">
+          <mxGeometry height="52" width="130" x="10" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YSF74yo-V3zidPwhUTfI-8" parent="YSF74yo-V3zidPwhUTfI-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Выбор вершин" vertex="1">
+          <mxGeometry height="52" width="130" x="10" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="YSF74yo-V3zidPwhUTfI-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.166;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="241" y="400" as="sourcePoint" />
+            <mxPoint x="242.22000000000003" y="78.72000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
