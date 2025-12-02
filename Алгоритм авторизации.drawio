@@ -23,9 +23,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R8zY5SW_SSCUR5pGUCjl-3" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="90" y="360" width="200" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="R8zY5SW_SSCUR5pGUCjl-8" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="260" y="130" width="220" height="50" as="geometry" />
         </mxCell>
@@ -82,6 +79,15 @@
         </mxCell>
         <mxCell id="gBu-IU8h6toBUfgBG0oL-4" value="Пользователь введ логин и пароль?" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="gBu-IU8h6toBUfgBG0oL-14">
           <mxGeometry x="50" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gBu-IU8h6toBUfgBG0oL-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="360" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R8zY5SW_SSCUR5pGUCjl-3" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="gBu-IU8h6toBUfgBG0oL-16" vertex="1">
+          <mxGeometry width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gBu-IU8h6toBUfgBG0oL-15" value="Отправка POST запроса на сервер" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="gBu-IU8h6toBUfgBG0oL-16">
+          <mxGeometry x="10" y="10" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
