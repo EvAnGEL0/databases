@@ -52,6 +52,24 @@
         <mxCell id="ii903SyOV8K9_rK6B24i-9" parent="ii903SyOV8K9_rK6B24i-12" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Список отделов" vertex="1">
           <mxGeometry height="30" width="120" x="15" y="90" as="geometry" />
         </mxCell>
+        <mxCell id="ii903SyOV8K9_rK6B24i-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="290" width="630" x="1706" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="ii903SyOV8K9_rK6B24i-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="30" width="630" x="1706" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="ii903SyOV8K9_rK6B24i-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Панель Меню" vertex="1">
+          <mxGeometry height="30" width="130" x="1956" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="ii903SyOV8K9_rK6B24i-16" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="230" width="596" x="1720" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="ii903SyOV8K9_rK6B24i-17" parent="ii903SyOV8K9_rK6B24i-16" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="230" width="596" as="geometry" />
+        </mxCell>
+        <mxCell id="ii903SyOV8K9_rK6B24i-18" parent="ii903SyOV8K9_rK6B24i-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Таблица с пользователями" vertex="1">
+          <mxGeometry height="30" width="176.0909090909091" x="209.95454545454544" y="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
