@@ -22,8 +22,35 @@
         <mxCell id="ii903SyOV8K9_rK6B24i-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Список сотрудников" vertex="1">
           <mxGeometry height="30" width="120" x="655" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="ii903SyOV8K9_rK6B24i-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Меню" vertex="1">
-          <mxGeometry height="30" width="60" x="450" y="60" as="geometry" />
+        <mxCell id="ii903SyOV8K9_rK6B24i-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Панель Меню" vertex="1">
+          <mxGeometry height="30" width="120" x="414" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ii903SyOV8K9_rK6B24i-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="290" width="630" x="910" y="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ii903SyOV8K9_rK6B24i-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="30" width="630" x="910" y="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ii903SyOV8K9_rK6B24i-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Панель Меню" vertex="1">
+          <mxGeometry height="30" width="130" x="1160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ii903SyOV8K9_rK6B24i-11" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="230" width="440" x="1080" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ii903SyOV8K9_rK6B24i-6" parent="ii903SyOV8K9_rK6B24i-11" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="230" width="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ii903SyOV8K9_rK6B24i-8" parent="ii903SyOV8K9_rK6B24i-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Таблица отпусков сотрудников отдела&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="130" x="155" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ii903SyOV8K9_rK6B24i-12" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="230" width="150" x="920" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ii903SyOV8K9_rK6B24i-7" parent="ii903SyOV8K9_rK6B24i-12" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="230" width="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ii903SyOV8K9_rK6B24i-9" parent="ii903SyOV8K9_rK6B24i-12" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Список отделов" vertex="1">
+          <mxGeometry height="30" width="120" x="15" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
